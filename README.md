@@ -1,6 +1,9 @@
 # mysql_promise
 an extremely easy way to send query to mysql server based on promise
 
+## Installation
+`npm install mysql_promise --save`
+
 ## step 1: config
 ```
 var query = mysql.config({
