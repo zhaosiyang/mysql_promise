@@ -1,6 +1,6 @@
 {
   "name": "mysql_promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "extremely easy to query mysql server based on promise",
   "main": "mysql_promise.js",
   "scripts": {
