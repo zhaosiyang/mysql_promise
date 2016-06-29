@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/zhaosiyang/mysql_promise/issues"
   },
-  "homepage": "https://github.com/zhaosiyang/mysql_promise#readme"
+  "homepage": "https://github.com/zhaosiyang/mysql_promise#readme",
+  "dependencies": {
+    "mysql": "^2.11.1"
+  }
 }
