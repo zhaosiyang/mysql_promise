@@ -1,0 +1,25 @@
+{
+  "name": "mysql_promise",
+  "version": "1.0.0",
+  "description": "extremely easy to query mysql server based on promise",
+  "main": "mysql_promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaosiyang/mysql_promise.git"
+  },
+  "keywords": [
+    "mysql",
+    "promise",
+    "easy",
+    "pool"
+  ],
+  "author": "zhaosiyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhaosiyang/mysql_promise/issues"
+  },
+  "homepage": "https://github.com/zhaosiyang/mysql_promise#readme"
+}
